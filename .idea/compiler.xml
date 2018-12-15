@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/src/org/mdk/Genetic/Chromosome/BitGene.java" />
+      <file url="file://$PROJECT_DIR$/src/org/mdk/Genetic/Chromosome/BitGeneChromosome.java" />
+      <file url="file://$PROJECT_DIR$/src/org/mdk/Genetic/Chromosome/DoubleChromosome.java" />
+      <file url="file://$PROJECT_DIR$/src/org/mdk/Genetic/Chromosome/DoubleGene.java" />
+      <file url="file://$PROJECT_DIR$/src/org/mdk/Genetic/Chromosome/Gene.java" />
+      <file url="file://$PROJECT_DIR$/src/org/mdk/Genetic/Chromosome/IChromosome.java" />
+      <file url="file://$PROJECT_DIR$/src/org/mdk/Genetic/Chromosome/IGene.java" />
+      <file url="file://$PROJECT_DIR$/src/org/mdk/Genetic/Chromosome/NumberChromosome.java" />
+      <file url="file://$PROJECT_DIR$/src/org/mdk/Genetic/Chromosome/BitChromosome.java" />
+      <file url="file://$PROJECT_DIR$/src/org/mdk/Genetic/Crossover/ICrossover.java" />
+      <file url="file://$PROJECT_DIR$/src/org/mdk/Genetic/Evaluator/IEvaluator.java" />
+      <file url="file://$PROJECT_DIR$/src/org/mdk/Genetic/Population/IPopulation.java" />
+      <file url="file://$PROJECT_DIR$/src/org/mdk/Genetic/Population/DoublePopulation.java" />
+      <file url="file://$PROJECT_DIR$/src/org/mdk/Genetic/Population/BitPopulation.java" />
+      <file url="file://$PROJECT_DIR$/src/org/mdk/Genetic/BitRunner.java" />
+    </excludeFromCompile>
+  </component>
+</project>
